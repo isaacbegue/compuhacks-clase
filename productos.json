@@ -4,25 +4,25 @@
       "nombre": "Intel Core i7-11700K",
       "precio": 499.99,
       "descripcion": "Procesador de 8 núcleos y 16 hilos con una velocidad base de 3.6 GHz y una velocidad de impulso de hasta 5.0 GHz",
-      "imagen": "img/productos/procesadores/i7-11700K.jpg"
+      "imagen": "/img/productos/procesadores/i7-11700K.jpg"
     },
     {
       "nombre": "AMD Ryzen 9 5950X",
       "precio": 799.99,
       "descripcion": "Procesador de 16 núcleos y 32 hilos con una velocidad base de 3.4 GHz y una velocidad de impulso de hasta 4.9 GHz",
-      "imagen": "img/productos/procesadores/ryzen-5950X.jpg"
+      "imagen": "/img/productos/procesadores/ryzen-5950X.jpg"
     },
     {
       "nombre": "Intel Core i5-11600K",
       "precio": 299.99,
       "descripcion": "Procesador de 6 núcleos y 12 hilos con una velocidad base de 3.9 GHz y una velocidad de impulso de hasta 4.9 GHz",
-      "imagen": "img/productos/procesadores/i5-11600K.jpg"
+      "imagen": "/img/productos/procesadores/i5-11600K.jpg"
     },
     {
       "nombre": "AMD Ryzen 5 5600X",
       "precio": 279.99,
       "descripcion": "Procesador de 6 núcleos y 12 hilos con una velocidad base de 3.7 GHz y una velocidad de impulso de hasta 4.6 GHz",
-      "imagen": "img/productos/procesadores/ryzen-5600X.jpg"
+      "imagen": "/img/productos/procesadores/ryzen-5600X.jpg"
     }
   ],
   "gabinetes": [
@@ -30,25 +30,25 @@
       "nombre": "Corsair Obsidian Series 1000D",
       "precio": 499.99,
       "descripcion": "Gabinete de torre completa con soporte para placas base E-ATX y Mini-ITX, capacidad para hasta 18 ventiladores y soporte para radiadores de hasta 480 mm",
-      "imagen": "img/productos/gabinetes/1000D.jpg"
+      "imagen": "/img/productos/gabinetes/1000D.jpg"
     },
     {
       "nombre": "Phanteks Enthoo Evolv X",
       "precio": 199.99,
       "descripcion": "Gabinete de torre media con soporte para placas base E-ATX y Mini-ITX, capacidad para hasta 9 ventiladores y soporte para radiadores de hasta 360 mm",
-      "imagen": "img/productos/gabinetes/evolv-x.jpg"
+      "imagen": "/img/productos/gabinetes/evolv-x.jpg"
     },
     {
       "nombre": "NZXT H510 Elite",
       "precio": 149.99,
       "descripcion": "Gabinete de torre media con ventana de cristal templado, soporte para placas base ATX y Mini-ITX, capacidad para hasta 7 ventiladores y soporte para radiadores de hasta 280 mm",
-      "imagen": "img/productos/gabinetes/h510-elite.jpg"
+      "imagen": "/img/productos/gabinetes/h510-elite.jpg"
     },
     {
       "nombre": "Cooler Master MasterCase H500M",
       "precio": 249.99,
       "descripcion": "Gabinete de torre media con panel frontal de malla, soporte para placas base E-ATX y ATX, capacidad para hasta 9 ventiladores y soporte para radiadores de hasta 360 mm",
-      "imagen": "img/productos/gabinetes/h500m.jpg"
+      "imagen": "/img/productos/gabinetes/h500m.jpg"
     }
   ],
   "tarjetas madre": [
@@ -56,25 +56,25 @@
       "nombre": "ASUS ROG Maximus XIII Hero",
       "precio": 499.99,
       "descripcion": "Placa base ATX con socket LGA 1200 para procesadores Intel de 11ª generación, soporte para memoria DDR4 de hasta 128 GB, doble ranura PCIe 4.0 x16, LAN Intel 2.5G y Wi-Fi 6E",
-      "imagen": "img/productos/tarjetas_madre/maximus-xiii-hero.jpg"
+      "imagen": "/img/productos/tarjetas_madre/maximus-xiii-hero.jpg"
     },
     {
       "nombre": "MSI MPG B550 Gaming Edge WiFi",
       "precio": 189.99,
       "descripcion": "Placa base ATX con socket AM4 para procesadores AMD Ryzen de 3ª generación, soporte para memoria DDR4 de hasta 128 GB, doble ranura PCIe 4.0 x16, LAN 2.5G y Wi-Fi 6",
-      "imagen": "img/productos/tarjetas_madre/b550-gaming-edge-wifi.jpg"
+      "imagen": "/img/productos/tarjetas_madre/b550-gaming-edge-wifi.jpg"
     },
     {
       "nombre": "GIGABYTE AORUS X570 Master",
       "precio": 379.99,
       "descripcion": "Placa base ATX con socket AM4 para procesadores AMD Ryzen de 2ª y 3ª generación, soporte para memoria DDR4 de hasta 128 GB, doble ranura PCIe 4.0 x16, LAN 2.5G y Wi-Fi 6",
-      "imagen": "img/productos/tarjetas_madre/x570-master.jpg"
+      "imagen": "/img/productos/tarjetas_madre/x570-master.jpg"
     },
     {
       "nombre": "ASRock B450M Pro4",
       "precio": 79.99,
       "descripcion": "Placa base Micro-ATX con socket AM4 para procesadores AMD Ryzen de 1ª, 2ª y 3ª generación, soporte para memoria DDR4 de hasta 64 GB, ranura PCIe 3.0 x16 y LAN Gigabit",
-      "imagen": "img/productos/tarjetas_madre/b450m-pro4.jpg"
+      "imagen": "/img/productos/tarjetas_madre/b450m-pro4.jpg"
     }
   ],
 
@@ -83,25 +83,25 @@
       "nombre": "NVIDIA GeForce RTX 3080",
       "precio": 999.99,
       "descripcion": "La tarjeta de video más poderosa de NVIDIA, con 10 GB de memoria GDDR6X y tecnología de trazado de rayos en tiempo real para gráficos increíblemente realistas.",
-      "imagen": "img/productos/tarjetas_de_vídeo/tarjeta_video1.jpg"
+      "imagen": "/img/productos/tarjetas_de_vídeo/tarjeta_video1.jpg"
     },
     {
       "nombre": "AMD Radeon RX 6800 XT",
       "precio": 899.99,
       "descripcion": "La tarjeta de video de última generación de AMD, con 16 GB de memoria GDDR6 y tecnología de trazado de rayos en tiempo real para juegos increíblemente realistas.",
-      "imagen": "img/productos/tarjetas_de_vídeo/tarjeta_video2.jpg"
+      "imagen": "/img/productos/tarjetas_de_vídeo/tarjeta_video2.jpg"
     },
     {
       "nombre": "NVIDIA GeForce GTX 1660",
       "precio": 249.99,
       "descripcion": "Una tarjeta de video asequible pero poderosa de NVIDIA, con 6 GB de memoria GDDR5 y una amplia compatibilidad con juegos modernos.",
-      "imagen": "img/productos/tarjetas_de_vídeo/tarjeta_video3.jpg"
+      "imagen": "/img/productos/tarjetas_de_vídeo/tarjeta_video3.jpg"
     },
     {
       "nombre": "AMD Radeon RX 5600 XT",
       "precio": 319.99,
       "descripcion": "Una tarjeta de video de rango medio de AMD, con 6 GB de memoria GDDR6 y un gran rendimiento en juegos populares.",
-      "imagen": "img/productos/tarjetas_de_vídeo/tarjeta_video4.jpg"
+      "imagen": "/img/productos/tarjetas_de_vídeo/tarjeta_video4.jpg"
     }
   ],
   "Memorias RAM": [
@@ -109,25 +109,25 @@
       "nombre": "Corsair Vengeance LPX 16GB",
       "precio": 79.99,
       "descripcion": "Un kit de memoria RAM DDR4 de alta velocidad de 16 GB (2x8 GB) de Corsair, con una frecuencia de 3200 MHz para un rendimiento fluido en aplicaciones y juegos intensivos.",
-      "imagen": "img/productos/memorias_ram/ram1.jpg"
+      "imagen": "/img/productos/memorias_ram/ram1.jpg"
     },
     {
       "nombre": "Crucial Ballistix RGB 32GB",
       "precio": 189.99,
       "descripcion": "Un kit de memoria RAM DDR4 de alta velocidad de 32 GB (2x16 GB) de Crucial, con una frecuencia de 3600 MHz y una iluminación RGB personalizable para un estilo único.",
-      "imagen": "img/productos/memorias_ram/ram2.jpg"
+      "imagen": "/img/productos/memorias_ram/ram2.jpg"
     },
     {
       "nombre": "G.Skill Ripjaws V 8GB",
       "precio": 39.99,
       "descripcion": "Un kit de memoria RAM DDR4 de 8 GB (2x4 GB) de G.Skill, con una frecuencia de 3200 MHz para un rendimiento sólido en aplicaciones cotidianas y juegos menos exigentes.",
-      "imagen": "img/productos/memorias_ram/ram3.jpg"
+      "imagen": "/img/productos/memorias_ram/ram3.jpg"
     },
     {
       "nombre": "Kingston HyperX Fury RGB 16GB",
       "precio": 89.99,
       "descripcion": "Un kit de memoria RAM DDR4 de alta velocidad de 16 GB (2x8 GB) de Kingston, con una frecuencia de 3200 MHz y una iluminación RGB personalizable para un estilo único y una mayor visibilidad en su PC.",
-      "imagen": "img/productos/memorias_ram/ram4.jpg"
+      "imagen": "/img/productos/memorias_ram/ram4.jpg"
     }
   ],
   "Almacenamiento": [
@@ -135,25 +135,25 @@
       "nombre": "Samsung 970 EVO Plus 1TB",
       "precio": 169.99,
       "descripcion": "Un disco duro SSD NVMe de 1 TB de alta velocidad de Samsung, con velocidades de lectura y escritura secuenciales de hasta 3500 MB/s y 3300 MB/s, respectivamente.",
-      "imagen": "img/productos/almacenamiento/almacenamiento1.jgp"
+      "imagen": "/img/productos/almacenamiento/almacenamiento1.jgp"
     },
     {
       "nombre": "Crucial MX500 2TB",
       "precio": 259.99,
       "descripcion": "Un disco duro SSD SATA de 2 TB de Crucial, con velocidades de lectura y escritura secuenciales de hasta 560 MB/s y 510 MB/s, respectivamente, y una gran capacidad de almacenamiento para tus archivos y aplicaciones.",
-      "imagen": "img/productos/almacenamiento/almacenamiento2.jgp"
+      "imagen": "/img/productos/almacenamiento/almacenamiento2.jgp"
     },
     {
       "nombre": "Seagate BarraCuda 4TB",
       "precio": 89.99,
       "descripcion": "Un disco duro HDD de 4 TB de Seagate, con una velocidad de rotación de 5400 RPM y una gran capacidad de almacenamiento para tus archivos y aplicaciones.",
-      "imagen": "img/productos/almacenamiento/almacenamiento3.jgp"
+      "imagen": "/img/productos/almacenamiento/almacenamiento3.jgp"
     },
     {
       "nombre": "WD Blue SN550 500GB",
       "precio": 59.99,
       "descripcion": "Un disco duro SSD NVMe de 500 GB de WD, con velocidades de lectura y escritura secuenciales de hasta 2400 MB/s y 1750 MB/s, respectivamente, y un gran valor para el rendimiento que ofrece.",
-      "imagen": "img/productos/almacenamiento/almacenamiento4.jgp"
+      "imagen": "/img/productos/almacenamiento/almacenamiento4.jgp"
     }
   ],
   "teclados": [
@@ -161,25 +161,25 @@
       "nombre": "Teclado mecánico Corsair K70 RGB",
       "precio": 149.99,
       "descripcion": "Teclado mecánico con retroiluminación RGB y teclas Cherry MX Red para una experiencia de escritura y juego excepcional.",
-      "imagen": "img/productos/teclados/teclado1.jpg"
+      "imagen": "/img/productos/teclados/teclado1.jpg"
     },
     {
       "nombre": "Teclado inalámbrico Logitech K380",
       "precio": 39.99,
       "descripcion": "Teclado compacto y portátil con conectividad inalámbrica Bluetooth y batería de larga duración.",
-      "imagen": "img/productos/teclados/teclado2.jpg"
+      "imagen": "/img/productos/teclados/teclado2.jpg"
     },
     {
       "nombre": "Teclado gaming Razer BlackWidow",
       "precio": 119.99,
       "descripcion": "Teclado mecánico para juegos con retroiluminación Chroma RGB, teclas programables y conexión USB.",
-      "imagen": "img/productos/teclados/teclado3.jpg"
+      "imagen": "/img/productos/teclados/teclado3.jpg"
     },
     {
       "nombre": "Teclado para tabletas Microsoft Surface",
       "precio": 99.99,
       "descripcion": "Teclado inalámbrico con diseño delgado y elegante, ideal para trabajar en la tableta Microsoft Surface.",
-      "imagen": "img/productos/teclados/teclado4.jpg"
+      "imagen": "/img/productos/teclados/teclado4.jpg"
     }
   ],
   "ratones": [
@@ -187,25 +187,25 @@
       "nombre": "Ratón gaming Logitech G502",
       "precio": 79.99,
       "descripcion": "Ratón para juegos con sensor óptico de alta precisión, pesos ajustables y retroiluminación RGB.",
-      "imagen": "img/productos/ratones/raton1.jpg"
+      "imagen": "/img/productos/ratones/raton1.jpg"
     },
     {
       "nombre": "Ratón inalámbrico Microsoft Surface",
       "precio": 69.99,
       "descripcion": "Ratón inalámbrico diseñado para trabajar con la tableta Microsoft Surface, con conexión Bluetooth y diseño ergonómico.",
-      "imagen": "img/productos/ratones/raton2.jpg"
+      "imagen": "/img/productos/ratones/raton2.jpg"
     },
     {
       "nombre": "Ratón vertical ergonómico Anker",
       "precio": 29.99,
       "descripcion": "Ratón vertical para reducir la tensión en la muñeca y mejorar la comodidad durante el uso prolongado.",
-      "imagen": "img/productos/ratones/raton3.jpg"
+      "imagen": "/img/productos/ratones/raton3.jpg"
     },
     {
       "nombre": "Ratón gamer Razer DeathAdder",
       "precio": 69.99,
       "descripcion": "Ratón para juegos con sensor óptico de alta precisión, diseño ergonómico y retroiluminación Chroma RGB.",
-      "imagen": "img/productos/ratones/raton4.jpg"
+      "imagen": "/img/productos/ratones/raton4.jpg"
     }
   ],
   "controles para videojuegos": [
@@ -213,25 +213,25 @@
       "nombre": "Control para videojuegos Xbox One",
       "precio": 49.99,
       "descripcion": "Control con diseño ergonómico y conectividad inalámbrica para la consola Xbox One y PC con Windows 10.",
-      "imagen": "img/productos/controles_para_videojuegos/control1.jpg"
+      "imagen": "/img/productos/controles_para_videojuegos/control1.jpg"
     },
     {
       "nombre": "Control para videojuegos PS4",
       "precio": 59.99,
       "descripcion": "Control inalámbrico para la consola PS4 con diseño cómodo y ergonómico para largas sesiones de juego.",
-      "imagen": "img/productos/controles_para_videojuegos/control2.jpg"
+      "imagen": "/img/productos/controles_para_videojuegos/control2.jpg"
     },
     {
       "nombre": "Control para videojuegos Nintendo Switch",
       "precio": 69.99,
       "descripcion": "Control inalámbrico para la consola Nintendo Switch con diseño compacto y botones programables.",
-      "imagen": "img/productos/controles_para_videojuegos/control3.jpg"
+      "imagen": "/img/productos/controles_para_videojuegos/control3.jpg"
     },
     {
       "nombre": "Control para videojuegos para PC",
       "precio": 29.99,
       "descripcion": "Control con cable para juegos de PC con diseño clásico y botones programables.",
-      "imagen": "img/productos/controles_para_videojuegos/control4.jpg"
+      "imagen": "/img/productos/controles_para_videojuegos/control4.jpg"
     }
   ],
   "Monitores": [
@@ -239,25 +239,25 @@
       "nombre": "Monitor LED 24 pulgadas",
       "precio": 219.99,
       "descripcion": "Monitor LED de alta definición con resolución 1920 x 1080 y relación de aspecto 16:9",
-      "imagen": "img/productos/monitores/monitor1.jpg"
+      "imagen": "/img/productos/monitores/monitor1.jpg"
     },
     {
       "nombre": "Monitor gaming curvo 27 pulgadas",
       "precio": 499.99,
       "descripcion": "Monitor curvo para gaming con resolución QHD y tasa de refresco de 144Hz",
-      "imagen": "img/productos/monitores/monitor2.jpg"
+      "imagen": "/img/productos/monitores/monitor2.jpg"
     },
     {
       "nombre": "Monitor táctil LCD 22 pulgadas",
       "precio": 349.99,
       "descripcion": "Monitor táctil LCD con resolución 1680 x 1050, relación de aspecto 16:10 y soporte para multi-touch",
-      "imagen": "img/productos/monitores/monitor3.jpg"
+      "imagen": "/img/productos/monitores/monitor3.jpg"
     },
     {
       "nombre": "Monitor IPS 27 pulgadas",
       "precio": 299.99,
       "descripcion": "Monitor IPS de alta definición con resolución 2560 x 1440 y ángulo de visión amplio",
-      "imagen": "img/productos/monitores/monitor4.jpg"
+      "imagen": "/img/productos/monitores/monitor4.jpg"
     }
   ],
   "Ventiladores y enfriamiento": [
@@ -265,25 +265,25 @@
       "nombre": "Ventilador de PC 1",
       "precio": 25.99,
       "descripcion": "Este ventilador de PC de alta calidad es perfecto para mantener su computadora fresca y funcionando sin problemas.",
-      "imagen": "img/productos/ventiladores_y_enfriamiento/ventilador-pc-1.jpg"
+      "imagen": "/img/productos/ventiladores_y_enfriamiento/ventilador-pc-1.jpg"
     },
     {
       "nombre": "Ventilador de PC 2",
       "precio": 19.99,
       "descripcion": "Este ventilador de PC económico es una gran opción para aquellos que buscan una solución de refrigeración simple pero efectiva.",
-      "imagen": "img/productos/ventiladores_y_enfriamiento/ventilador-pc-2.jpg"
+      "imagen": "/img/productos/ventiladores_y_enfriamiento/ventilador-pc-2.jpg"
     },
     {
       "nombre": "Refrigeración líquida 1",
       "precio": 99.99,
       "descripcion": "Este sistema de refrigeración líquida avanzado es ideal para usuarios que desean mantener sus procesadores de alta gama a temperaturas óptimas.",
-      "imagen": "img/productos/ventiladores_y_enfriamiento/refrigeracion-liquida-1.jpg"
+      "imagen": "/img/productos/ventiladores_y_enfriamiento/refrigeracion-liquida-1.jpg"
     },
     {
       "nombre": "Refrigeración líquida 2",
       "precio": 129.99,
       "descripcion": "Este sistema de refrigeración líquida de alta gama es una excelente opción para aquellos que buscan la mejor refrigeración para sus sistemas de juego.",
-      "imagen": "img/productos/ventiladores_y_enfriamiento/refrigeracion-liquida-2.jpg"
+      "imagen": "/img/productos/ventiladores_y_enfriamiento/refrigeracion-liquida-2.jpg"
     }
   ],
   "Audífonos y bocinas": [
@@ -291,25 +291,25 @@
       "nombre": "Audífonos con cancelación de ruido",
       "precio": 129.99,
       "descripcion": "Audífonos con cancelación de ruido activa y Bluetooth 5.0 para una conexión inalámbrica sin interrupciones",
-      "imagen": "img/productos/audífonos_y_bocinas/audifonos1.jpg"
+      "imagen": "/img/productos/audífonos_y_bocinas/audifonos1.jpg"
     },
     {
       "nombre": "Bocina portátil Bluetooth",
       "precio": 79.99,
       "descripcion": "Bocina portátíl Bluetooth con batería recargable, resistente al agua y con hasta 10 horas de reproducción continua",
-      "imagen": "img/productos/audífonos_y_bocinas/bocina2.jpg"
+      "imagen": "/img/productos/audífonos_y_bocinas/bocina2.jpg"
     },
     {
       "nombre": "Audífonos inalámbricos deportivos",
       "precio": 59.99,
       "descripcion": "Audífonos inalámbricos deportivos con resistencia al sudor y al agua, y hasta 8 horas de reproducción continua",
-      "imagen": "img/productos/audífonos_y_bocinas/audifonos3.jpg"
+      "imagen": "/img/productos/audífonos_y_bocinas/audifonos3.jpg"
     },
     {
       "nombre": "Bocina inteligente con asistente virtual",
       "precio": 199.99,
       "descripcion": "Bocina inteligente con asistente virtual y control por voz, compatible con múltiples plataformas de música en línea",
-      "imagen": "img/productos/audífonos_y_bocinas/bocina4.jpg"
+      "imagen": "/img/productos/audífonos_y_bocinas/bocina4.jpg"
     }
   ],
   "fuentes de alimentación": [
@@ -317,25 +317,25 @@
       "nombre": "Fuente de alimentación EVGA 600W",
       "precio": 50.99,
       "descripcion": "Fuente de alimentación de 600 vatios con certificación 80 PLUS y ventilador de 120 mm",
-      "imagen": "img/productos/fuentes_de_alimentación/fuente-evga-600w.jpg"
+      "imagen": "/img/productos/fuentes_de_alimentación/fuente-evga-600w.jpg"
     },
     {
       "nombre": "Fuente de alimentación Corsair CX750M",
       "precio": 99.99,
       "descripcion": "Fuente de alimentación de 750 vatios con certificación 80 PLUS Bronze y cables modulares",
-      "imagen": "img/productos/fuentes_de_alimentación/fuente-corsair-cx750m.jpg"
+      "imagen": "/img/productos/fuentes_de_alimentación/fuente-corsair-cx750m.jpg"
     },
     {
       "nombre": "Fuente de alimentación Seasonic Focus GX-850",
       "precio": 149.99,
       "descripcion": "Fuente de alimentación de 850 vatios con certificación 80 PLUS Gold y ventilador de 120 mm con control de velocidad híbrido",
-      "imagen": "img/productos/fuentes_de_alimentación/fuente-seasonic-focus-gx-850.jpg"
+      "imagen": "/img/productos/fuentes_de_alimentación/fuente-seasonic-focus-gx-850.jpg"
     },
     {
       "nombre": "Fuente de alimentación Thermaltake Toughpower Grand RGB 850W",
       "precio": 169.99,
       "descripcion": "Fuente de alimentación de 850 vatios con certificación 80 PLUS Gold y ventilador de 140 mm con iluminación RGB personalizable",
-      "imagen": "img/productos/fuentes_de_alimentación/fuente-thermaltake-toughpower-grand-rgb-850w.jpg"
+      "imagen": "/img/productos/fuentes_de_alimentación/fuente-thermaltake-toughpower-grand-rgb-850w.jpg"
     }
   ],
   "accesorios": [
@@ -343,25 +343,25 @@
       "nombre": "Tira de luces RGB para PC",
       "precio": 20.99,
       "descripcion": "Esta tira de luces RGB es fácil de instalar en cualquier parte de tu PC y puede ser controlada mediante un control remoto incluido. Con 16 colores diferentes y varios modos de iluminación, podrás personalizar el aspecto de tu PC como nunca antes.",
-      "imagen": "img/productos/accesorios/tira-luces-rgb.jpg"
+      "imagen": "/img/productos/accesorios/tira-luces-rgb.jpg"
     },
     {
       "nombre": "Adhesivo para PC",
       "precio": 15.99,
       "descripcion": "Adhesivo de Spider-Man para el gabinete de tu computadora",
-      "imagen": "img/productos/accesorios/adhesivo-pc.jpg"
+      "imagen": "/img/productos/accesorios/adhesivo-pc.jpg"
     },
     {
       "nombre": "Kit de luces LED RGB para PC",
       "precio": 25.99,
       "descripcion": "Este kit de luces LED RGB para PC viene con dos tiras de luz LED RGB y un control remoto para cambiar los colores y modos de iluminación. Es fácil de instalar y es compatible con la mayoría de las placas base de PC.",
-      "imagen": "img/productos/accesorios/kit-luces-rgb.jpg"
+      "imagen": "/img/productos/accesorios/kit-luces-rgb.jpg"
     },
     {
       "nombre": "Barra de luz LED RGB para PC",
       "precio": 18.99,
       "descripcion": "Esta barra de luz LED RGB es una excelente manera de iluminar el interior de tu PC. Con un diseño elegante y una variedad de colores y modos de iluminación, esta barra de luz es fácil de instalar y proporciona una iluminación impresionante.",
-      "imagen": "img/productos/accesorios/barra-luz-rgb.jpg"
+      "imagen": "/img/productos/accesorios/barra-luz-rgb.jpg"
     }
   ],
   "cables y adaptadores": [
@@ -369,25 +369,25 @@
       "nombre": "Cable HDMI de alta velocidad 4K",
       "precio": 9.99,
       "descripcion": "Cable HDMI de 1,8 metros de longitud con soporte para resolución 4K y alta velocidad de transferencia de datos",
-      "imagen": "img/productos/cables_y_adaptadores/cable-hdmi-alta-velocidad-4k.jpg"
+      "imagen": "/img/productos/cables_y_adaptadores/cable-hdmi-alta-velocidad-4k.jpg"
     },
     {
       "nombre": "Cable de alimentación para PC",
       "precio": 6.99,
       "descripcion": "Cable de alimentación de 1,5 metros de longitud para fuentes de alimentación de PC",
-      "imagen": "img/productos/cables_y_adaptadores/cable-alimentacion-pc.jpg"
+      "imagen": "/img/productos/cables_y_adaptadores/cable-alimentacion-pc.jpg"
     },
     {
       "nombre": "Adaptador de USB-C a USB 3.0",
       "precio": 12.99,
       "descripcion": "Adaptador que permite conectar dispositivos con conector USB 3.0 a puertos USB-C, compatible con velocidades de transferencia de hasta 5 Gbps",
-      "imagen": "img/productos/cables_y_adaptadores/adaptador-usb-c-a-usb-3.0.jpg"
+      "imagen": "/img/productos/cables_y_adaptadores/adaptador-usb-c-a-usb-3.0.jpg"
     },
     {
       "nombre": "Cable de red Ethernet Cat 7",
       "precio": 14.99,
       "descripcion": "Cable de red de 10 metros de longitud con conectores RJ45, compatible con velocidades de hasta 10 Gbps",
-      "imagen": "img/productos/cables_y_adaptadores/cable-red-ethernet-cat7.jpg"
+      "imagen": "/img/productos/cables_y_adaptadores/cable-red-ethernet-cat7.jpg"
     }
   ]
 }
