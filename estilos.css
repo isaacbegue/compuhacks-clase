@@ -34,7 +34,7 @@
         list-style: none;
     }    
 
-    /* configuración del header */
+/* configuración del header */
 
     header {
         display: flex;
@@ -53,14 +53,50 @@
         align-items: center;
     }    
 
-    header a img { 
-        max-height: 60px;
-    }    
+    @media (max-width: 574px) {
 
-    #carrito {
-        margin-right: 10px;
-        max-height: 50px;
-    }    
+        #logo {
+            display: block;
+            text-align: center;
+            padding: 10px;
+        }
+
+
+        header a img { 
+            max-height: 20px;
+            margin: 0 auto;
+        }    
+        #carrito {
+            margin-right: 10px;
+            max-height: 20px;
+            padding: 10px;
+        }
+        
+        body {
+            padding-top: 200px;
+        }
+    }
+
+    @media (min-width: 575px) {
+        header a img { 
+            max-height: 30px;
+        }    
+        #carrito {
+            margin-right: 10px;
+            max-height: 30px;
+        }    
+    }
+    @media (min-width: 880px) {
+        header a img { 
+            max-height: 60px;
+        }    
+        #carrito {
+            margin-right: 10px;
+            max-height: 60px;
+        }    
+    }
+    
+
 
     nav.barra-navegacion {
         display: flex;
@@ -93,21 +129,40 @@
 
 
 /* secciones */
-    section ul {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    @media (min-width: 575px) {
+        .mostrar-categorias ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
     }
-
-    section ul li {
+    @media (min-width: 880px) {
+        .mostrar-categorias ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+    @media (min-width: 1075px) {
+        .mostrar-categorias ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+    }
+    @media (min-width: 1400px) {
+        .mostrar-categorias ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        }
+    }
+    .mostrar-categorias ul li {
         text-align: center;
         padding: 10px 0;
     }
 
-    section ul li:hover {
+    .mostrar-categorias ul li:hover {
         transform: scale(1.1);
     }
 
-    section ul li img {
+    .mostrar-categorias ul li img {
         max-height: 160px;
     }
 
@@ -125,6 +180,20 @@
         justify-content: space-between;
     }
 
+
+    @media (max-width: 900px) {
+        footer {
+            display: block;
+            max-height: 200px;
+            text-align: center;
+        }
+    }
+    @media (min-width: 575px) {
+
+    }
+
+    
+
     footer div {
         padding: 10px;
     }
@@ -133,3 +202,68 @@
         max-height: 20px;
         padding: 0 10px;
     }
+
+/* categoría productos */
+
+
+    @media (min-width: 700px) {
+        #productos ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+    @media (min-width: 1100px) {
+        #productos ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+    @media (min-width: 1500px) {
+        #productos ul {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+    }
+
+    #productos ul li {
+        padding: 20px;
+        text-align: center;     
+    }
+
+    #productos ul li img {
+        max-height: 250px;
+    }
+
+    #productos .descripcion {
+        font-size: x-small;
+    }
+    #productos .precio {
+        font-size: large;
+        padding: 10px 0;
+    }
+
+
+/* formulario de ingreso y registro */
+
+    #seccion-ingresar form, #seccion-registrarse form {
+        margin: 0 auto;
+        border: 2px solid darkgray;
+        border-radius: 5px;
+        max-width: 400px;
+        text-align: center;
+    }
+
+    #seccion-ingresar form ul, #seccion-registrarse form ul {
+        display: block;
+    }
+    #seccion-ingresar form ul li, #seccion-registrarse form ul li {
+        padding: 20px 0;
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    #seccion-registrarse form p {
+        font-size: smaller;
+        padding: 10px 0;
+    }
+

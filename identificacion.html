@@ -12,10 +12,41 @@
         <h1 id="titulo">titulo</h1>
             
         <section id="seccion-ingresar">
-          
+            <form name="ingresar" action="index_submit" method="post" accept-charset="utf-8">
+                <ul>
+                    <li><label for="correo">Correo electrónico</label>
+                        <input type="email" name="correo" placeholder="ejemplo@dominio.com" required></li>
+                    <li><label for="password">Contraseña</label>
+                        <input type="password" name="password" placeholder="contraseña" required></li>
+                    <li><input type="submit" value="Iniciar sesión"></li>
+                </ul>
+            </form>
         </section>
         <section id="seccion-registrarse">
-          
+            <form action="#" name="ingresar" method="post">
+                <div class="container">
+                  <p>Por favor complete este formulario para crear una cuenta.</p>
+                  
+                  <ul>
+                    <li>
+                        <label for="email">Correo electrónico</label>
+                        <input type="text" placeholder="Ingrese Correo electrónico" name="email" id="email" required>
+                    </li>
+                    <li>
+                        <label for="psw">Contraseña</label>
+                        <input type="password" placeholder="Ingrese Contraseña" name="psw" id="psw" required>
+                    </li>
+                    <li>
+                        <label for="psw-repeat">Repetir Contraseña</label>
+                        <input type="password" placeholder="Repita Contraseña" name="psw-repeat" id="psw-repeat" required>
+                    </li>
+                    <li>
+                        <input type="submit" value="Registrarse"/>
+                    </li>
+                  </ul>
+
+                </div>
+              </form>
         </section>
         
         <footer id="footer"></footer>

@@ -103,14 +103,17 @@ function consultar_productos_json(categoria) {
             // Crear un elemento <p> con el nombre del producto
             var p1 = document.createElement("p");
             p1.innerText = producto.nombre;
+            p1.classList.add("nombre-producto")
   
             // Crear un elemento <p> con el precio del producto
             var p2 = document.createElement("p");
             p2.innerText = "$" + producto.precio;
+            p2.classList.add("precio")
   
             // Crear un elemento <p> con la descripción del producto
             var p3 = document.createElement("p");
             p3.innerText = producto.descripcion;
+            p3.classList.add("descripcion")
   
             // Agregar los elementos <img> y <p> al <li>
             li.appendChild(img);
@@ -122,7 +125,7 @@ function consultar_productos_json(categoria) {
             ul.appendChild(li);
           }
   
-          // Agregar el elemento <ul> al <h2>
+          // Agregar el elemento <ul> al <section>
           section.appendChild(ul);
         }
       }
