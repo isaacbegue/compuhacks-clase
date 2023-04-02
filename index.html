@@ -4,14 +4,19 @@
         <title>CompuHacks</title>
         <link rel="stylesheet" href="estilos.css">
         <link rel="icon" href="img/isotipo.png">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     </head>
 
     <body>
         <header id="header"></header>
     
-        <h1>CATEGORÍAS</h1>
-            
+        <h1 data-aos="flip-left"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="2000">CATEGORÍAS</h1>
+
+        
         <section class="mostrar-categorias">
+            <button id="boton-saludo">Salúdame</button>
             <ul>               
                 <li>
                     <a href="categoria.html?cat=Gabinetes">
@@ -138,5 +143,9 @@
             
         <footer id="footer"></footer>
         <script src="app.js"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init();
+        </script>
     </body>
 </html>

@@ -1,3 +1,8 @@
+
+/* Enviar saludo desde la consola */
+
+console.log("Hola, la página ha cargado correctamente.")
+
 /* Cargando header y footer */
 
     // Crear dos objetos XMLHttpRequest para cargar los archivos HTML
@@ -58,6 +63,18 @@
 
         
     }
+
+const botonSaludo = document.getElementById("boton-saludo")
+
+botonSaludo.addEventListener("click", ()=>{
+    let resultado = prompt("Ingresa tu nombre:", "");
+    if (resultado == null || resultado == "") {
+    console.log("Has cancelado o introducido el nombre vacío");
+    } else {
+    alert("Hola, " + resultado)
+    console.log("Hola, " + resultado);
+    }
+})
 
 
 function consultar_productos_json(categoria) {

@@ -4,15 +4,18 @@
         <title>CompuHacks</title>
         <link rel="stylesheet" href="estilos.css">
         <link rel="icon" href="img/isotipo.png">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     </head>
 
     <body>
         <header id="header"></header>
     
-        <h1 id="titulo">titulo</h1>
+        <h1 id="titulo" data-aos="flip-left"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="2000">titulo</h1>
             
         <section id="seccion-ingresar">
-            <form name="ingresar" action="index_submit" method="post" accept-charset="utf-8">
+            <form name="ingresar" action="dashboard/index.html" method="post" accept-charset="utf-8">
                 <ul>
                     <li><label for="correo">Correo electrónico</label>
                         <input type="email" name="correo" placeholder="ejemplo@dominio.com" required></li>
@@ -23,7 +26,7 @@
             </form>
         </section>
         <section id="seccion-registrarse">
-            <form action="#" name="ingresar" method="post">
+            <form action="dashboard/index.html" name="ingresar" method="post">
                 <div class="container">
                   <p>Por favor complete este formulario para crear una cuenta.</p>
                   
@@ -51,5 +54,9 @@
         
         <footer id="footer"></footer>
         <script src="app.js"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init();
+        </script>
     </body>
 </html>
